@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- 🌊 Cyber Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=✦%20BAIYE%20·%20白夜%20✦&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Architect%20%7C%20RAG%20Knowledge%20Engine%20%7C%20DeepSeek%20Ecosystem&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
+<!-- ✨ 荧光动态粒子流与全息量子 Banner (Animated Quantum Particle Stream) -->
+<img src="https://raw.githubusercontent.com/a1113622001/a1113622001/main/assets/cyber-particles-banner.svg" alt="Cyber Particles Stream" width="100%" />
 
-<!-- ⚡ Animated Neon Typing Subtitle -->
+<!-- ⚡ 动态荧光蓝打字机 (Typing Matrix) -->
 <a href="https://github.com/a1113622001">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00D2FF&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%A1+AI+Agent+%26+Model+Context+Protocol+(MCP)+Infrastructure;%F0%9F%A7%A0+Offline+RAG+Knowledge+Engine+(4%2C456+Wiki+Pages+%2B+BGE-M3);%F0%9F%94%A5+DeepSeek+Harness+Ecosystem+%26+Real-time+Token+Analytics;%F0%9F%9B%A0%EF%B8%8F+Zero-Alloc+Stream+I%2FO+%26+Windows+Low-Level+Optimization" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 🛡️ Cyber Status & Metrics HUD -->
+<!-- 🛡️ 赛博 HUD 状态徽章 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a1113622001&style=for-the-badge&color=00D2FF&label=SYSTEM+ACCESS+COUNT" alt="Visitor Count" />
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=statuspal&logoColor=white" />
@@ -22,54 +22,7 @@
 
 ---
 
-### 🖥️ 赛博控制台 / Quantum Terminal HUD
-
-```yaml
-┌───[ operative: 白夜 / Baiye @ quantum-node ]─────────────────────────────────────────┐
-│                                                                                      │
-│   /\_/\      OPERATIVE     : 白夜 (Baiye / a1113622001)                              │
-│  ( o.o )     CORE RUNTIME  : Windows 11 Pro x64 / Linux Hybrid Architecture          │
-│   > ^ <      RAG CLUSTER   : 4,456 Wiki Pages (Offline) · 37,312 Dense Chunks        │
-│              MCP DAEMON    : [Playwright, GitHub, Sequential-Thinking, Memory]       │
-│              I/O ENGINE    : Zero-Allocation Stream · Physical HDD Cluster Sorter    │
-│              DELIVERY SLI  : 99.999% Assurance · Autonomous Self-Healing Active      │
-│                                                                                      │
-└───────────────────────────────────────────────────────────────────[ STATUS: READY ]──┘
-```
-
----
-
-### 🌌 全景系统架构拓扑 / Systems Architecture Topology
-
-```mermaid
-flowchart LR
-    subgraph RAG["🧠 离线知识引擎 (RAG Engine)"]
-        direction TB
-        A["📚 4,456 Wiki 离线镜像"] --> B["⚡ BGE-M3 向量嵌入 (1024d)"]
-        B --> C["🔍 37,312 RAG Chunks"]
-        C --> D["🎯 BGE-Reranker-v2 精排"]
-        D --> E["🤖 DeepSeek-V3 / R1 推理"]
-    end
-
-    subgraph AGENT["⚡ 智能体与协议中枢 (Agent Hub)"]
-        direction TB
-        F["🔌 Model Context Protocol (MCP)"] --> G["🎭 Playwright 浏览器自动化"]
-        F --> H["🐙 GitHub 远程 CI 协同"]
-        F --> I["🧩 Cordis / DSH 热更新扩展"]
-    end
-
-    subgraph SYSTEM["🛠️ 系统底层加速 (System I/O)"]
-        direction TB
-        J["💽 Windows 物理簇扇区排序"] --> K["🚀 零分配流式哈希引擎"]
-        K --> L["⚡ 毫秒级批量文件指纹篡改"]
-    end
-
-    E ==> F
-```
-
----
-
-### 🚀 核心矩阵 / Featured Project Artifacts
+### 🌌 核心矩阵 / Featured Project Artifacts
 
 #### 🔮 [Noita 中文知识库 · 离线 RAG 问答系统](https://github.com/a1113622001/noita-wiki-zh)
 > **4,456 页 Wiki 离线镜像 · BGE-M3 向量 RAG · DeepSeek 生成 · MCP / Skill 协议生态**
@@ -129,30 +82,10 @@ flowchart LR
 
 ---
 
-<details>
-<summary><b>⚡ 点击展开 [NEURAL TERMINAL DEEP DIVE & DEV LOGS]</b></summary>
-
-```json
-{
-  "operative": "白夜 (Baiye)",
-  "specializations": [
-    "Autonomous Agentic Delivery",
-    "Offline Vector Knowledge Graph Construction",
-    "Model Context Protocol (MCP) Toolchains",
-    "Low-Level Windows Stream Optimization"
-  ],
-  "current_focus": "Building high-assurance multi-agent execution engines on Antigravity",
-  "motto": "Code with precision, deliver with certainty."
-}
-```
-</details>
-
----
-
 <!-- 🌊 Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" width="100%" />
   <p align="center">
-    <sub>✦ Designed & Crafted with Cyberpunk Aesthetics by 白夜 · Powered by Antigravity ✦</sub>
+    <sub>✦ Designed & Crafted with Cyberpunk Particle Aesthetics by 白夜 · Powered by Antigravity ✦</sub>
   </p>
 </div>
