@@ -24,17 +24,17 @@
 
 ### 🖥️ 赛博控制台 / Quantum Terminal HUD
 
-```ansi
-[1;36m╔════════════════════════════════════════════════════════════════════════════════════╗[0m
-[1;36m║[0m [1;35mbaiye@quantum-core[0m:[1;32m~[0m$ [1;37mfastfetch --agent-profile --live-status[0m                         [1;36m║[0m
-[1;36m╠════════════════════════════════════════════════════════════════════════════════════╣[0m
-[1;36m║[0m  [1;33m/\_/\[0m     [1;32mOPERATIVE[0m    : [1;37m白夜 (Baiye / a1113622001)[0m                             [1;36m║[0m
-[1;36m║[0m [1;33m( o.o )[0m    [1;32mSYSTEM CORE[0m  : [1;34mWindows 11 Pro x64 / Linux Hybrid Architecture[0m        [1;36m║[0m
-[1;36m║[0m  [1;33m> ^ <[0m     [1;32mRAG CLUSTER[0m  : [1;33m4,456 Wiki Pages (Offline) · 37,312 Dense Chunks[0m      [1;36m║[0m
-[1;36m║[0m            [1;32mMCP DAEMON[0m   : [1;35m[Playwright, GitHub, Sequential-Thinking, Memory][0m     [1;36m║[0m
-[1;36m║[0m            [1;32mI/O ENGINE[0m   : [1;31mZero-Allocation Stream · Physical HDD Cluster Sorter[0m  [1;36m║[0m
-[1;36m║[0m            [1;32mUPTIME[0m       : [1;36m99.999% · Autonomous 24/7 Delivery Active[0m             [1;36m║[0m
-[1;36m╚════════════════════════════════════════════════════════════════════════════════════╝[0m
+```yaml
+┌───[ operative: 白夜 / Baiye @ quantum-node ]─────────────────────────────────────────┐
+│                                                                                      │
+│   /\_/\      OPERATIVE     : 白夜 (Baiye / a1113622001)                              │
+│  ( o.o )     CORE RUNTIME  : Windows 11 Pro x64 / Linux Hybrid Architecture          │
+│   > ^ <      RAG CLUSTER   : 4,456 Wiki Pages (Offline) · 37,312 Dense Chunks        │
+│              MCP DAEMON    : [Playwright, GitHub, Sequential-Thinking, Memory]       │
+│              I/O ENGINE    : Zero-Allocation Stream · Physical HDD Cluster Sorter    │
+│              DELIVERY SLI  : 99.999% Assurance · Autonomous Self-Healing Active      │
+│                                                                                      │
+└───────────────────────────────────────────────────────────────────[ STATUS: READY ]──┘
 ```
 
 ---
@@ -42,29 +42,29 @@
 ### 🌌 全景系统架构拓扑 / Systems Architecture Topology
 
 ```mermaid
-graph LR
-    subgraph KNOWLEDGE_ENGINE["🧠 离线向量知识引擎 (RAG Engine)"]
+flowchart LR
+    subgraph RAG["🧠 离线知识引擎 (RAG Engine)"]
+        direction TB
         A["📚 4,456 Wiki 离线镜像"] --> B["⚡ BGE-M3 向量嵌入 (1024d)"]
         B --> C["🔍 37,312 RAG Chunks"]
         C --> D["🎯 BGE-Reranker-v2 精排"]
         D --> E["🤖 DeepSeek-V3 / R1 推理"]
     end
 
-    subgraph AGENT_INFRA["⚡ 智能体与协议中枢 (Agent Hub)"]
-        E --> F["🔌 Model Context Protocol (MCP)"]
-        F --> G["🎭 Playwright 浏览器自动化"]
+    subgraph AGENT["⚡ 智能体与协议中枢 (Agent Hub)"]
+        direction TB
+        F["🔌 Model Context Protocol (MCP)"] --> G["🎭 Playwright 浏览器自动化"]
         F --> H["🐙 GitHub 远程 CI 协同"]
         F --> I["🧩 Cordis / DSH 热更新扩展"]
     end
 
-    subgraph SYSTEM_OPTIM["🛠️ 系统底层加速 (System I/O)"]
+    subgraph SYSTEM["🛠️ 系统底层加速 (System I/O)"]
+        direction TB
         J["💽 Windows 物理簇扇区排序"] --> K["🚀 零分配流式哈希引擎"]
         K --> L["⚡ 毫秒级批量文件指纹篡改"]
     end
 
-    style KNOWLEDGE_ENGINE fill:#0d1117,stroke:#00d2ff,stroke-width:2px
-    style AGENT_INFRA fill:#0d1117,stroke:#7928ca,stroke-width:2px
-    style SYSTEM_OPTIM fill:#0d1117,stroke:#00ff66,stroke-width:2px
+    E ==> F
 ```
 
 ---
