@@ -1,72 +1,86 @@
 <div align="center">
 
-# 👋 Hi there, I'm 白夜 (Baiye / a1113622001)
+<!-- 🌊 Cyber Gradient Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=✦%20BAIYE%20·%20白夜%20✦&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Architect%20%7C%20RAG%20Knowledge%20Engine%20%7C%20DeepSeek%20Ecosystem&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
 
+<!-- ⚡ Animated Neon Typing Subtitle -->
+<a href="https://github.com/a1113622001">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F2FE&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%A1+AI+Agent+%26+Model+Context+Protocol+(MCP)+Infrastructure;%F0%9F%A7%A0+Offline+RAG+Knowledge+Engine+(4%2C456+Wiki+Pages+%2B+BGE-M3);%F0%9F%94%A5+DeepSeek+Harness+Ecosystem+%26+Real-time+Token+Analytics;%F0%9F%9B%A0%EF%B8%8F+Zero-Alloc+Stream+I%2FO+%26+Windows+Low-Level+Optimization" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 🛡️ Cyber Status & Metrics Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=AI+Agent+%26+LLM+Ecosystem+Developer;RAG+%26+Offline+Knowledge+Base+Builder;High-Performance+System+Tooling+Craftsman" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=a1113622001&style=for-the-badge&color=00F2FE&label=SYSTEM+ACCESS+COUNT" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00FF66?style=for-the-badge&logo=statuspal&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-MCP%20SHIELD%20ACTIVE-7928CA?style=for-the-badge&logo=wireguard&logoColor=white" />
 </p>
-
-[![GitHub Followers](https://img.shields.io/github/followers/a1113622001?style=for-the-badge&logo=github&color=30363D&labelColor=161B22)](https://github.com/a1113622001)
-[![GitHub Stars](https://img.shields.io/github/stars/a1113622001?style=for-the-badge&logo=apachespark&color=E3B341&labelColor=161B22)](https://github.com/a1113622001)
-[![Repositories](https://img.shields.io/badge/Public%20Repos-6-58A6FF?style=for-the-badge&logo=git&labelColor=161B22)](https://github.com/a1113622001?tab=repositories)
 
 </div>
 
 ---
 
-### 🌟 About Me
+### 🌌 核心矩阵 / Featured Project Artifacts
 
-- 🤖 **AI Agent & LLM Infra**：专注于大模型落地、**Model Context Protocol (MCP)** 生态扩展与 Agent 自动化交付流。
-- 📚 **RAG & 离线知识引擎**：主导构建超大规模结构化离线镜像（4,400+ 页词条）、多向量检索（BGE-M3）与 Reranker 问答系统。
-- ⚡ **插件与开发框架**：深入参与 **DeepSeek Harness (Cordis)** 插件生态研发，提供热更新调度与实时 Token 成本监测看板。
-- 🛠️ **系统级性能工具**：对 Windows 底层物理簇 I/O、零分配流式哈希算法与自动化脚本有深度实践。
-
----
-
-### 🚀 Featured Open Source Projects
-
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🪄 <a href="https://github.com/a1113622001/noita-wiki-zh">noita-wiki-zh</a></h3>
-      <p><b>Noita 中文知识库 · 离线 RAG 问答与 MCP 协议系统</b></p>
-      <p>4,456 页 Wiki 离线镜像，结合 BGE-M3 (1024d) 稠密向量与 DeepSeek 大模型推理，提供精准的无网络限制问答与 Agent Skill 支持。</p>
+      <h3>🔮 <a href="https://github.com/a1113622001/noita-wiki-zh">Noita 中文知识库 · RAG 问答</a></h3>
+      <p><i>4,456 页 Wiki 离线镜像 · BGE-M3 向量 RAG · DeepSeek 生成 · MCP 智能体生态</i></p>
+      <ul>
+        <li>🎯 <b>痛点攻克</b>：彻底击穿 Wiki 官方限流壁垒，构建 100% 离线检索。</li>
+        <li>🧠 <b>检索增强</b>：37,312 RAG Chunks + BGE-Reranker-v2-M3 二次精排。</li>
+        <li>🔌 <b>开放协议</b>：原生兼容 Model Context Protocol (MCP) 与 Agent Skills。</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/BGE--M3-Embedding-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/DeepSeek-V3%2FR1-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/MCP-Standard%20Ready-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Embedding-BGE--M3-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM-DeepSeek--V3%2FR1-00F2FE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-MCP%20Ready-success?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/a1113622001/dsh-auto-update">dsh-auto-update</a></h3>
-      <p><b>DeepSeek Harness (Cordis) 自动热更新引擎</b></p>
-      <p>专为 DSH 启动器打造的自升级插件，实时检测 npm 最新版本、分步暂存并在退出或 Web 面板指令下一键无缝重启应用。</p>
+      <p><i>DeepSeek Harness (Cordis) 自动化热更新与调度引擎</i></p>
+      <ul>
+        <li>🔄 <b>无感热更</b>：npm 差量版本轮询 + 后台 Staging 预热。</li>
+        <li>⚡ <b>一键重启</b>：支持 Harness 退出应用与 Web UI 面板即时热重载。</li>
+        <li>🛡️ <b>类型安全</b>：全链路 <code>@deepseek-ai/schemastery</code> 强类型校验。</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Node.js-ESM-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cordis-Plugin-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Schemastery-TypeSafe-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Framework-Cordis-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Self--Update-blue?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/a1113622001/dsh-session-stats-panel">dsh-session-stats-panel</a></h3>
-      <p><b>DeepSeek Harness 实时会话成本与性能看板</b></p>
-      <p>嵌入式 UI 插件，实时统计缓存命中率（Cache-Hit Rate）、Token 消耗速率、运行耗时以及精准的 DeepSeek API 账单成本。</p>
+      <p><i>DeepSeek Harness 实时会话成本与性能分析面板</i></p>
+      <ul>
+        <li>💰 <b>成本透视</b>：实时计算会话 Token 吞吐率、命中率与实时 API 账单。</li>
+        <li>🎨 <b>嵌入式 UI</b>：基于原生 Web Components 的极简右侧抽屉面板。</li>
+        <li>📈 <b>性能度量</b>：平均 Cache-Hit 统计与自动化价格同步检查。</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Web%20Components-UI-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Token%20Analytics-Cost-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-Web%20Components-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Analytics-Token%20Usage-yellow?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/a1113622001/Batch-Hash-Changer">Batch-Hash-Changer</a></h3>
-      <p><b>Windows 批量哈希修改工具（物理簇 I/O 优化）</b></p>
-      <p>通过物理磁盘簇顺序排序优化机械硬盘寻道，采用内存零分配流式技术，实现毫秒级批量修改文件哈希指纹。</p>
+      <h3>🚀 <a href="https://github.com/a1113622001/Batch-Hash-Changer">Batch-Hash-Changer</a></h3>
+      <p><i>Windows 批量哈希修改工具（物理簇 I/O 深度调优）</i></p>
+      <ul>
+        <li>💽 <b>磁盘优化</b>：底层物理簇顺序寻道排序，机械硬盘性能暴增。</li>
+        <li>⚡ <b>零内存分配</b>：流式指针追加，毫秒级突破百万级文件哈希碰撞。</li>
+        <li>🛡️ <b>防损机制</b>：支持哈希校验还原与原子级安全写入。</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/PowerShell-7%2B-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zero--Alloc-Stream-critical?style=flat-square" />
-        <img src="https://img.shields.io/badge/HDD%20Optimization-Fast-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/I%2FO-Zero--Alloc-critical?style=flat-square" />
+        <img src="https://img.shields.io/badge/Speed-Millisecond-00FF66?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -74,43 +88,53 @@
 
 ---
 
-### 💻 Tech Stack & Skills
+### ⚡ 技能武器库 / Tech Stack Armory
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,rust,cs,powershell,bash,nodejs,vue,react,docker,git,githubactions,linux,windows&perline=8&theme=dark" />
+  </a>
+</div>
 
-#### 编程语言 (Languages)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br/>
 
-#### AI、Agent 与知识工程 (AI & Agentic Systems)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM-blue?style=for-the-badge)
-![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-4A154B?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Vector%20Search-FF6F00?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+---
 
-#### 开发与基础设施 (DevOps & Tools)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Windows Internals](https://img.shields.io/badge/Windows-System%20I%2FO-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🏆 荣誉与数据大屏 / Cyber Metrics & Achievements
 
+<div align="center">
+  <!-- Dynamic Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=a1113622001&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="95%" />
+  <br/><br/>
+  <!-- Stats Cards Duo -->
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=a1113622001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1113622001&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=a1113622001&theme=tokyonight-duo&hide_border=true" width="85%" />
 </div>
 
 ---
 
-### 📈 GitHub Stats
+<!-- 🎮 Cyber Snake Eating Contributions Animation -->
+### 🐍 活跃轨迹 / Contribution Matrix
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1113622001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1113622001&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/a1113622001/a1113622001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
+<!-- 🌊 Footer Wave -->
 <div align="center">
-  <sub>Designed & Crafted by 白夜 · Powered by Antigravity</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" width="100%" />
+  <sub>✦ Crafted with Cyberpunk Aesthetics by 白夜 · Powered by Antigravity ✦</sub>
 </div>
