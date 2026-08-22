@@ -75,15 +75,6 @@
 
 ---
 
-<!-- 📊 Self-Hosted GitHub Actions Metrics Screen -->
-### 📈 自动化指标大屏 / Automated Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/a1113622001/a1113622001/output/github-metrics.svg" alt="GitHub Metrics" width="95%" onerror="this.style.display='none'" />
-</div>
-
----
-
 <!-- 🌊 Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" width="100%" />
